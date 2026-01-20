@@ -12,4 +12,5 @@ while True:
         print(f"{name} is {age} years old.")
         break
     else:
+        print("yuh")
         print("These are the changes")
