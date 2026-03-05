@@ -28,3 +28,8 @@ Worked on developing flow diagrams and component diagrams to visualize how our s
 Date: 2.25.26 – Subject: Presentation and Slideshows
 
 Helped design and organize our presentation slides, focusing on clarity and structure. Presented our project ideas, diagrams, and progress to the class and received helpful feedback.
+
+Date: 3.5.26 - Subject: Starting Issues
+
+This week we started developing our youface, and also understanding what the app holds within it. I looked into the actions within the html and python, and how I'm going to create and build off of the platform we start with. 
+
