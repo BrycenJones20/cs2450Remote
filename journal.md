@@ -33,3 +33,8 @@ Date: 3.5.26 - Subject: Starting Issues
 
 This week we started developing our youface, and also understanding what the app holds within it. I looked into the actions within the html and python, and how I'm going to create and build off of the platform we start with. 
 
+Date: 3.19.26 - Subject: Working on the app
+
+This week I just worked on issues and focused on getting the posts to stay hidden until others have seen it and also working on getting the posts to be removed every sunday.
+
+
