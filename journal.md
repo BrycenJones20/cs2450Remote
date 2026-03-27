@@ -37,4 +37,7 @@ Date: 3.19.26 - Subject: Working on the app
 
 This week I just worked on issues and focused on getting the posts to stay hidden until others have seen it and also working on getting the posts to be removed every sunday.
 
+Date: 3.26.26 - Subject: Unit testing
+
+We setup and uses selinium to test our youface app. I worked on the adding friend section which would test all the cases. It was fun and interesting!
 
