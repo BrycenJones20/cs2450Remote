@@ -41,3 +41,6 @@ Date: 3.26.26 - Subject: Unit testing
 
 We setup and uses selinium to test our youface app. I worked on the adding friend section which would test all the cases. It was fun and interesting!
 
+Date: 4.2.25 - Subject: Refactoring
+
+We looked into how refactoring worked and continued working in our groups. Our team is very far in and is killing it!
