@@ -44,3 +44,7 @@ We setup and uses selinium to test our youface app. I worked on the adding frien
 Date: 4.2.25 - Subject: Refactoring
 
 We looked into how refactoring worked and continued working in our groups. Our team is very far in and is killing it!
+
+Date: 4.9.25 - Subject: Development Pipeline Automation
+
+This week we are working on taking our previous selenium tests and putting them on github producing tests we can run and also get feedback for. 
