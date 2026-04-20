@@ -47,4 +47,8 @@ We looked into how refactoring worked and continued working in our groups. Our t
 
 Date: 4.9.25 - Subject: Development Pipeline Automation
 
-This week we are working on taking our previous selenium tests and putting them on github producing tests we can run and also get feedback for. 
+This week we are working on taking our previous selenium tests and putting them on github producing tests we can run and also get feedback for.
+
+Date: 4.16.26 - Subject: Conatinerization and Render
+
+This week we worked on getting our websites posted on Redner as well as working with containerization. Both were fun to learn and do! 
