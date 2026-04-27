@@ -51,4 +51,9 @@ This week we are working on taking our previous selenium tests and putting them 
 
 Date: 4.16.26 - Subject: Conatinerization and Render
 
-This week we worked on getting our websites posted on Redner as well as working with containerization. Both were fun to learn and do! 
+This week we worked on getting our websites posted on Redner as well as working with containerization. Both were fun to learn and do!
+
+Date: 4.24.26 - Subject: Presentation
+
+This week we worked on getting our demo ready and also our powerpoint ready to present on Thursday. We presented all of our slides and did the demo and killed it.
+
