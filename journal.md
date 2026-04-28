@@ -57,3 +57,7 @@ Date: 4.24.26 - Subject: Presentation
 
 This week we worked on getting our demo ready and also our powerpoint ready to present on Thursday. We presented all of our slides and did the demo and killed it.
 
+Date: 4.28.26 - Subject: Presentations again
+
+This week we watched the rest of the groups present their projects!
+
